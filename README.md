@@ -21,7 +21,7 @@ This is a simple example showing 3 different types of "content" with TcHmi.TopMo
 The Content and UserControl are linked to PLC variables so be sure to activate and download the PLC program first.  Then open Desktop.view in live view. 
 
 ## Screenshot
-![image](./docs/images/Screenshot.png)
+![image](./docs/images/Screenshot.gif)
 
 ## Code Snippets
 The following sections of code are the important parts. 
