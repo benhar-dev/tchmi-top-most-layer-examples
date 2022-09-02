@@ -1,0 +1,25 @@
+﻿{
+  "parameters": [
+    {
+      "name": "data-tchmi-myswitch",
+      "displayName": "mySwitch",
+      "visible": true,
+      "type": "tchmi:general#/definitions/BOOL",
+      "category": "",
+      "description": "",
+      "defaultValue": false,
+      "defaultValueInternal": false,
+      "requiredOnCompile": false,
+      "readOnly": false,
+      "bindable": true,
+      "heritable": true,
+      "propertyName": "mySwitch",
+      "propertySetterName": "setMySwitch",
+      "propertyGetterName": "getMySwitch",
+      "refTo": ""
+    }
+  ],
+  "virtualRights": [],
+  "$schema": "./../../Packages/Beckhoff.TwinCAT.HMI.Framework.12.756.1/runtimes/native1.12-tchmi/Schema/UserControlConfig.Schema.json",
+  "description": ""
+}
